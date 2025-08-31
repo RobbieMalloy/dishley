@@ -1,9 +1,5 @@
----
-layout: plain
-title: Home
----
+# Dishley
 
-# Hello World
+Your AI-Powered Cooking Companion
 
-This is minimal content.
-
+## Coming Soon
