@@ -1,4 +1,2 @@
-title: Dishley Policies
+title: Dishley
 description: Dishley App
-frontend:
-  themes:  !include themes.yaml
