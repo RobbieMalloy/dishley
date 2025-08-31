@@ -1,3 +1,5 @@
-markdown: kramdown
-plugins:
-  - jekyll-optional-front-matter
+title: My Jekyll Site
+description: Minimal Jekyll setup for GitHub Pages
+baseurl: "dishley" # set to "/REPO_NAME" if it's a project site
+url: "https://robbiemalloy.github.io"
+theme: minima
