@@ -1,3 +1,4 @@
 title: Dishley Policies
 description: Dishley App
-theme: jekyll-theme-minimal
+frontend:
+  themes:  !include themes.yaml
