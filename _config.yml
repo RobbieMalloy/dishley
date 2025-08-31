@@ -1,1 +1,7 @@
+title: Dishley
 description: Dishley App
+theme: minima
+plugins:
+  - jekyll-include-cache
+include:
+  - assets/css/custom.css
