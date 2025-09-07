@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** Sept 2025
 
 Your privacy matters. Dishley does not collect or store any personal data. All app data is stored locally on your device or optionally in your personal iCloud account if you choose to enable iCloud sync. We do not track you, sell your data, or access your information in any way.
 
@@ -11,7 +11,7 @@ Your privacy matters. Dishley does not collect or store any personal data. All a
 
 ## Third-Party Services
 
-* **Firebase AI:** Dishley uses Google's AI services to process your recipe requests, such as generating recipes, or analyzing shopping lists and/or ingredients. Your text input is sent to Google's servers for analysis and a response is returned. No personally identifiable information is sent, and these requests are not stored by us. See their [Privacy Policy](https://policies.google.com/privacy).
+* **Gemini AI:** Dishley uses Google's AI services to process your recipe requests, such as generating recipes, or analyzing shopping lists and/or ingredients. Your text input is sent to Google's servers for analysis and a response is returned. No personally identifiable information is sent, and these requests are not stored by us. See their [Privacy Policy](https://policies.google.com/privacy).
 
 * **RevenueCat:** Used to manage in-app purchases and ensure subscriptions work properly across devices. RevenueCat may collect anonymous purchase history to manage your subscription. See their [Privacy Policy](https://www.revenuecat.com/privacy).
 
@@ -23,4 +23,4 @@ Your privacy matters. Dishley does not collect or store any personal data. All a
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**[Your support email address here]**
+**dishely.app@gmail.com**
