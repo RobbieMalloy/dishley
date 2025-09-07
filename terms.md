@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** Sept 2025
 
 By downloading, installing, or using the Dishley app ("the App"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, please do not use the App.
 
@@ -88,8 +88,8 @@ Your use of the App is also subject to the Apple App Store Terms and Conditions.
 
 If you have questions about these Terms, please contact us at:
 
-**[Your support email address here]**
+**dishely.app@gmail.com**
 
 ---
 
-**Last Updated:** [Insert Date]
+**Last Updated:** Sept 2025
