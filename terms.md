@@ -76,15 +76,11 @@ We may terminate your access to the App at any time for violation of these Terms
 
 We reserve the right to modify these Terms at any time. Updated Terms will be posted in the App with a new effective date. Continued use of the App constitutes acceptance of the updated Terms.
 
-## 12. Governing Law
-
-These Terms are governed by the laws of [Your Jurisdiction]. Any disputes will be resolved in the courts of [Your Jurisdiction].
-
-## 13. App Store Terms
+## 12. App Store Terms
 
 Your use of the App is also subject to the Apple App Store Terms and Conditions.
 
-## 14. Contact Information
+## Contact Information
 
 If you have questions about these Terms, please contact us at:
 
