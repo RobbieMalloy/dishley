@@ -1,5 +1,16 @@
-# Dishley
+<div align="center">
 
-Your AI-Powered Cooking Companion
+# **Dishley**
+### *AI-Powered Recipe Creator*
 
-## Coming Soon
+<br>
+
+## 🚀 Coming Soon
+
+<br>
+
+---
+
+[Privacy Policy](https://yoursite.com/privacy) • [Terms of Service](https://yoursite.com/terms)
+
+</div>
