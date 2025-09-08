@@ -9,8 +9,10 @@
 
 <br>
 
+</div>
+
 ---
 
-[Privacy Policy](https://yoursite.com/privacy) • [Terms of Service](https://yoursite.com/terms)
-
+<div align="center">
+<sub>[Privacy Policy](https://robbiemalloy.github.io/dishley/privacy) • [Terms of Service](https://robbiemalloy.github.io/dishley/terms)</sub>
 </div>
