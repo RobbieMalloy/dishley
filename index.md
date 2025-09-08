@@ -15,6 +15,6 @@
 
 <div class="policy-links" align="center">
     <h3>Available Policies</h3>
-    <a href="./privacy.html">Privacy Policy</a> • 
-    <a href="./terms.html">Terms and Conditions</a>
+    <a href="./privacy">Privacy Policy</a> • 
+    <a href="./terms">Terms and Conditions</a>
 </div>
