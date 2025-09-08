@@ -13,6 +13,8 @@
 
 ---
 
-<div align="center">
-<sub>[Privacy Policy](https://robbiemalloy.github.io/dishley/privacy) • [Terms of Service](https://robbiemalloy.github.io/dishley/terms)</sub>
+<div class="policy-links" align="center">
+    <h3>Available Policies</h3>
+    <a href="./privacy.html">Privacy Policy</a> • 
+    <a href="./terms.html">Terms and Conditions</a>
 </div>
